@@ -6,9 +6,7 @@ function IntroPage({ isFirstVisit, getStartedFn }) {
       <h1 className="intro-head">
         <span>{'//'}</span>
         <span className="head-text">
-        <span>Code </span>
-        <span>Crafted </span>
-        <span>Resume.</span>
+        <span>Zidio Resume Builder</span>
       </span>
       </h1>
       <p className="intro-desc">A free resume builder for developers & software engineers.</p>
